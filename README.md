@@ -2,10 +2,11 @@
 pronouns: "she"|"her"
 code: [Javascript,Typescript,HTML,CSS],
 tools: [Vue.js,Node]
-currentlyLearning:{
+currentlyLearning = {
                     Bootcamp: Full Stack Developer,
-                    Place: Factoría F5
+                    Place: Factor
                     Metodology: Simplon,
+                    technologies:'web',
                     }
 
 
