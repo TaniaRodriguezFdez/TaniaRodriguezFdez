@@ -1,11 +1,11 @@
-### Hi there I'm Tania🐱‍🐉💻
+### Hi there I'm Tania🐱‍🐉💻  
 
 pronouns: "she"|"her"
 code: [Javascript,Typescript,HTML,CSS],
-tools: [Vue.js,Node]
+tools: [Vue,Node,Sass,Bootstrap]
 currentlyLearning = {
                     Bootcamp: Full Stack Developer,
-                    Place: Factor
+                    Place: FactoriaF5
                     Metodology: Simplon,
                     technologies:'web',
                     }
